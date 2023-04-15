@@ -1,0 +1,13 @@
+@media (max-width: 24em){
+    .qr-code-scanner{
+        max-width: 20rem;
+        /* min-height: 100vh; */
+               
+    }
+    h3{
+        font-size: 1.4rem;
+    }
+    p{
+        font-size: 1rem;
+    }
+}
